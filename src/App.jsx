@@ -1,5 +1,4 @@
 import React, { lazy, Suspense } from "react";
-
 import "./App.css";
 
 const Listing = lazy(() => import("./components/Listing"));
